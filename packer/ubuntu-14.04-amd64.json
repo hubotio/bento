@@ -125,6 +125,7 @@
         "scripts/common/vagrant.sh",
         "scripts/common/vmtools.sh",
         "scripts/common/chef.sh",
+        "scripts/ubuntu/lita.sh",
         "scripts/ubuntu/cleanup.sh",
         "scripts/common/minimize.sh"
       ],
